@@ -1,9 +1,3 @@
-# n8n Flows
-
-A collection of n8n automation workflows.
-
-## Workflows
-
 ### Social Media Post Automation
 
 **File:** `socia_media_post_automation/SociaMediaWorkflow.json`
